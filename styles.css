@@ -1,0 +1,36 @@
+* {
+    margin: 25px;
+}
+body {
+    background-color: rgb(189, 184, 184);
+}
+img {
+    border: solid 2px;
+    border-radius: 5px;
+}
+.align {
+    text-align: center;
+}
+.list {
+    padding: 10px;
+    letter-spacing: 2px;
+    margin: 10px;
+}
+.box {
+    padding: 40px 0px;
+    position: relative;
+    text-align: center;
+}
+.box a {
+    background: black;
+    border: solid 2px, black;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+.box a:hover {
+    background: white;
+    color: black;
+    border: solid 2px black ;
+    text-decoration: none;
+}
